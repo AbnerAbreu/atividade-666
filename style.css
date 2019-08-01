@@ -31,3 +31,7 @@ button{
 h3{
     color: black;
 }
+.texth3{
+    display: flex;
+    align-content: center;
+}
